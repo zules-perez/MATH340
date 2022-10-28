@@ -1,2 +1,2 @@
-# MATH 340
+# MATH340
 ## Numerical Analysis
